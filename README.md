@@ -1,2 +1,2 @@
 # Project-A
-i will do this project after exam
+this is indian version of makemore which is language modeling and create a new name .
